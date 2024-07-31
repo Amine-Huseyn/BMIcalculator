@@ -1,4 +1,4 @@
-#INFO for BMI calculator
+# INFO for BMI calculator
 if you wanna read documentation you must to go these links:
 https://docs.python.org/3/library/tkinter.html
 https://www.geeksforgeeks.org/python-tkinter-label/
